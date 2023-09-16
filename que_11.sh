@@ -18,3 +18,5 @@ case $op in
 	*)	echo "Enter proper Number."
 	;;
 esac
+echo "we are performing AWS Cloud computing Lab with GithubRepository"
+echo "Modifying this file for the github understanding purpose"
